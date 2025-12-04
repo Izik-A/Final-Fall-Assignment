@@ -1,3 +1,3 @@
 # Final-Fall-Assignment
 ## What I Learned
-I learned further how programming works, due to  the complexity of the seperate commands used
+Through my work on coding an anaolg sound sensor, I learned further how programming works, due to  the complexity of the seperate commands used. I learned how variables work as well as how to properly have a function be tethered to specific pins on a arduino. the following Attached files are a ![screenshot](https://drive.google.com/file/d/1MW84VYcn6u0LO50XVM8QXTFUmhkrWCwS/view) of the code used, and a ![video](https://drive.google.com/file/d/1-E9Zu6aFC7pby9_oZkA5iqJVo22QsxNc/view) of the code working in which the readings from the sound sensor are displayed on screen in which the value changes based off of how loud the sound picked up is, in this case, room chatter and my yelling.
